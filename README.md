@@ -1,6 +1,6 @@
 # TravelPlus - Vacations Management System 🌴
 
-<video src="./demo.mp4" controls="controls" width="100%" autoplay loop muted></video>
+https://github.com/amoryossef/Vacation-management-system/raw/main/demo.mp4
 
 A full-stack, real-time web application to manage, track, and follow vacation destinations. 
 
